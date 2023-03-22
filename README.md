@@ -3,3 +3,6 @@
 ## テンプレートのご提供元
 
 [Megapx](https://www.megapx.com/tmpl2.html)
+
+## サイト
+[GenshinArtifactBuildGen](https://crossdarkrix.github.io/GenshinArtifactBuildGenSite/)
