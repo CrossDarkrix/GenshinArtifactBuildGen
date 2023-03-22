@@ -10,7 +10,7 @@
 
 body {
 	background-color: #057174;
-	background-image: url(https://crossdarkrix.github.io/GenshinArtifactBuildGen/img/bg.jpg);
+	background-image: url(https://crossdarkrix.github.io/GenshinArtifactBuildGenSite/img/bg.jpg);
 	background-repeat: repeat-x;
 	background-attachment: fixed;
 	background-position: center top;
@@ -109,7 +109,7 @@ h1 a {
 	margin-right: auto;
 	margin-left: auto;
 	border: 1px solid #000000;
-	background-image: url(https://crossdarkrix.github.io/GenshinArtifactBuildGen/img/nav.gif);
+	background-image: url(https://crossdarkrix.github.io/GenshinArtifactBuildGenSite/img/nav.gif);
 	background-repeat: repeat-x;
 }
 
@@ -129,7 +129,7 @@ h1 a {
 	font-size: 10px;
 	line-height: 17px;
 	text-decoration: none;
-	background-image: url(https://crossdarkrix.github.io/GenshinArtifactBuildGen/img/c_li.gif);
+	background-image: url(https://crossdarkrix.github.io/GenshinArtifactBuildGenSite/img/c_li.gif);
 	background-repeat: no-repeat;
 	background-position: 10px center;
 	padding-left: 22px;
@@ -160,7 +160,7 @@ h1 a {
 #contents p{
 	padding-top: 5px;
 	padding-bottom: 5px;
-	background-image: url(https://crossdarkrix.github.io/GenshinArtifactBuildGen/img/note_line.gif);
+	background-image: url(https://crossdarkrix.github.io/GenshinArtifactBuildGenSite/img/note_line.gif);
 	margin-right: 30px;
 	margin-left: 30px;
 	line-height: 20px;
@@ -241,7 +241,7 @@ h1 a {
 	padding-top: 5px;
 	padding-bottom: 5px;
 	background-color: #DDE1E1;
-	background-image: url(https://crossdarkrix.github.io/GenshinArtifactBuildGen/img/top_img.jpg);
+	background-image: url(https://crossdarkrix.github.io/GenshinArtifactBuildGenSite/img/top_img.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	height: 150px;
@@ -346,7 +346,7 @@ h1 a {
 	padding-top: 4px;
 	text-align: center;
 	background-color: #333333;
-	background-image: url(https://crossdarkrix.github.io/GenshinArtifactBuildGen/img/nav.gif);
+	background-image: url(https://crossdarkrix.github.io/GenshinArtifactBuildGenSite/img/nav.gif);
 	background-repeat: repeat-x;
 	border: 1px solid #000000;
 }
@@ -367,7 +367,7 @@ h1 a {
 	padding-right: 15px;
 	padding-left: 15px;
 	padding-bottom: 5px;
-	background-image:url(https://crossdarkrix.github.io/GenshinArtifactBuildGen/img/li.gif);
+	background-image:url(https://crossdarkrix.github.io/GenshinArtifactBuildGenSite/img/li.gif);
 	background-repeat: no-repeat;
 	background-color: #63653A;
 	padding-top: 5px;
@@ -414,7 +414,7 @@ h1 a {
 #f_menu {
 	clear: both;
 	text-align: center;
-	background-image: url(https://crossdarkrix.github.io/GenshinArtifactBuildGen/img/foot.jpg);
+	background-image: url(https://crossdarkrix.github.io/GenshinArtifactBuildGenSite/img/foot.jpg);
 	background-repeat: repeat-x;
 	border: 1px solid #E2E2DE;
 	padding: 15px;
